@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohghaohohc.otech.nl/sitemap.xml
